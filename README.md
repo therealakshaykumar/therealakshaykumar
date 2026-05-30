@@ -1,5 +1,7 @@
 # Hey 👋, This is Akshay...
-[![Gmail Badge](https://img.shields.io/badge/-akshay.anilseema@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:imakshay3000)](mailto:imakshay3000) [![Github Badge](https://img.shields.io/badge/-therealakshaykumar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/therealakshaykumar/)](https://www.github.com/therealakshaykumar/) <p align='left'>A Passionate Backend Developer proficient in Node.js, Express.js, and TypeScript, with extensive experience in building robust web applications. Skilled in PostgreSQL for efficient data management. Well-versed in frameworks such as Nest.js and LoopBack for scalable and maintainable solutions. Experienced in front-end development with Angular for seamless user experiences. Dedicated to delivering high-quality code and continuously expanding expertise in the ever-evolving tech landscape.</p>
+Portfolio 
+[Akshay's - Portfolio]([https://itsvg.in](https://therealakshay.vercel.app/)) 
+[![Gmail Badge](https://img.shields.io/badge/-akshay.anilseema@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:imakshay3000)](mailto:imakshay3000) <p align='left'>A Passionate Backend Developer proficient in Node.js, Express.js, and TypeScript, with extensive experience in building robust web applications. Skilled in PostgreSQL for efficient data management. Well-versed in frameworks such as Nest.js and LoopBack for scalable and maintainable solutions. Experienced in front-end development with Angular for seamless user experiences. Dedicated to delivering high-quality code and continuously expanding expertise in the ever-evolving tech landscape.</p>
 
 
 # 💻 Tech Stack:
