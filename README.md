@@ -8,7 +8,4 @@
 
 # Some of my Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealakshaykumar&layout=compact)](https://github.com/therealakshaykumar/github-readme-stats)
-
-
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
